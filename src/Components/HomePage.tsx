@@ -12,7 +12,7 @@ export default async function HomePage() {
       <div className="container mx-auto px-4 py-8">
         <div className="text-center max-w-3xl mx-auto space-y-8">
           <h1 className="font-sans text-3xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 bg-clip-text text-transparent leading-tight tracking-tight">
-            SSeamless Form Submission with Google Sheets Integration
+            Seamless Form Submission with Google Sheets Integration
           </h1>
           <div className="flex justify-center mb-6">
             <div className="inline-flex items-center space-x-2 bg-black/5 backdrop-blur-sm px-4 py-2 rounded-full">
